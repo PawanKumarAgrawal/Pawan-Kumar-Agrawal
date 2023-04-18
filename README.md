@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PawanKumarAgrawal
-- 👀 I’m interested in Data Science
+- 👀 I’m interested in Data Analysis with Python & Poer BI and Data Science with Python
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Data Science Skills
 - 📫 Reach me at agpawan13@gmail.com
